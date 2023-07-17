@@ -1,0 +1,14 @@
+datetime
+pyttsx3
+wikipedia
+webbrowser
+json
+plyer
+termcolor
+beautifulsoup4
+requests
+imdbpy
+keyboard
+pyautogui
+phonenumbers
+smtplib
